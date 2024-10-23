@@ -8,7 +8,7 @@ The design ensured that the game could run on different devices while keeping ev
 
 Unique names for games and teams were another priority. The design used the *Iterator Pattern* to check for duplicate names, ensuring that each team and game has a unique identity. This helps prevent confusion when creating new games or teams.
 
-## Benefits of the Design Document
+## Software Design Document
 Creating a design document before building the game was beneficial for planning out how the game would work. It allowed for thinking through all necessary details, such as how to support multiple devices and manage many players at once. This preparation made it easier to explain the game’s structure to both the client and the development team.
 
 ## Areas for Improvement
@@ -17,5 +17,5 @@ If changes were to be made, adding more diagrams and visual aids would make the 
 ## Understanding Player Needs
 The design focused on making the game user-friendly and fun. Ensuring compatibility with different devices like phones and computers was key, as well as making sure the game remained fair and smooth during play. Considering what players want helps create a more enjoyable game, making it easy for them to engage and have fun.
 
-## Approach to Game Design
+## Game Design
 The design process began by identifying what the game needed to do, such as allowing teams to play against each other and tracking points. After that, each part of the game was planned to ensure that everything worked together seamlessly. This approach helps in staying organized and makes the development process more efficient.
